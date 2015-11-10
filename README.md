@@ -69,5 +69,6 @@ Typography / Grid / Blocks / Buttons / Forms / Label and Badges / Tables / Helpe
 *Use trello for report the problem, give us a idea for new features and be informed of new version features, fixed bugs and more.*
 
 
-**Designed and built with  by Hamid Yaftian. **
+**Designed and built by Hamid Yaftian.**
+
 *Forbica licensed under MIT License and Documentation licensed under CC-BY-NC 4.0.*
