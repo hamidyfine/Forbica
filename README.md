@@ -67,3 +67,7 @@ Typography / Grid / Blocks / Buttons / Forms / Label and Badges / Tables / Helpe
 **Trello:**   [trello.com/b/IK5a85lo](https://trello.com/b/IK5a85lo)
 
 *Use trello for report the problem, give us a idea for new features and be informed of new version features, fixed bugs and more.*
+
+
+**Designed and built with  by Hamid Yaftian. **
+*Forbica licensed under MIT License and Documentation licensed under CC-BY-NC 4.0.*
