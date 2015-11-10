@@ -59,7 +59,11 @@ Typography / Grid / Blocks / Buttons / Forms / Label and Badges / Tables / Helpe
 
 ## Contact with Us:
 **Email:** [dev@forbica.com](mailto: dev@forbica.com)
+
 **Facebook:** [facebook.com/forbica](facebook.com/forbica)
+
 **Twitter:**  [twitter.com/forbica](twitter.com/forbica)
+
 **Trello:**   [trello.com/b/IK5a85lo](https://trello.com/b/IK5a85lo)
+
 *Use trello for report the problem, give us a idea for new features and be informed of new version features, fixed bugs and more.*
