@@ -1,8 +1,6 @@
 # Forbica
 Beautiful, Responsive and Modern UI Framework that Support both LTR and RTL - http://forbica.com/
 
-Forbica is published in 2 language: English / Persian
-
 ## Why using Forbica UI Framework?
 
 **1. Responsive:**
@@ -39,6 +37,7 @@ When you download Forbica, there is a folder named: *theme*. Themes are the file
 **4. Start Using Forbica!**
 
 ## Online Documentaion:
+*Forbica is published in English and Persian*
 
 **English**: http://forbica.com/doc/
 
