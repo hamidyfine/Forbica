@@ -23,8 +23,43 @@ Forbica is free, forever. You Don’t need to pay for using it. You can use Forb
 **6. Customize Forbica (Coming Soon)**
 You can create your own Forbica. Change the parameters, customize it based on your projects and make it looks like what you want, then use it, share it and more. New Features is COMING!
 
+## Get Started
+**1. Download Forbica**
+**2. Add Forbica to you Project:**
+
+`<link href="forbica-ltr.css" rel="stylesheet" />`
+
+*Note:* folder "fonts" and forbica css file should be in the same folder.
+
+**3. Add Theme (Optional):**
+When you download Forbica, there is a folder named: *theme*. Themes are the files that add extra classes and new style to the Forbica. You can add theme to your project if you want to have more styles:
+
+`<link href="flat-ltr.css" rel="stylesheet" />`
+
+**4. Start Using Forbica!**
+
 ## Online Documentaion:
 
 **English**: http://forbica.com/doc/
 
 **Persian**: http://forbica.com/doc/fa/
+
+## Changes History
+- Forbica v1.0.0 is published. With these features: 
+Typography / Grid / Blocks / Buttons / Forms / Label and Badges / Tables / Helpers. 
+- Document v1.0.0. 
+- Theme: Flat v1.0.0. 
+- Theme: Flat Document v1.0.0 
+- Forbica is published in both Persian and English Languages. 
+
+## Help us improve and develop Forbica
+
+#### Donate Using Paypal: [Click Here](#)
+#### Donate Using Payline (for Iranians): [Click Here](#)
+
+## Contact with Us:
+**Email:** [dev@forbica.com](mailto: dev@forbica.com)
+**Facebook:** [facebook.com/forbica](facebook.com/forbica)
+**Twitter:**  [twitter.com/forbica](twitter.com/forbica)
+**Trello:**   [trello.com/b/IK5a85lo](https://trello.com/b/IK5a85lo)
+*Use trello for report the problem, give us a idea for new features and be informed of new version features, fixed bugs and more.*
