@@ -66,7 +66,7 @@ Typography / Grid / Blocks / Buttons / Forms / Label and Badges / Tables / Helpe
 
 **Trello:**   [trello.com/b/IK5a85lo](https://trello.com/b/IK5a85lo)
 
-*Use trello for report the problem, give us a idea for new features and be informed of new version features, fixed bugs and more.*
+*Use trello to report a problem, give us an idea for new features and be informed of new version and new features, fixed bugs and more.*
 
 
 **Designed and built by Hamid Yaftian.**
