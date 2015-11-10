@@ -55,7 +55,7 @@ Typography / Grid / Blocks / Buttons / Forms / Label and Badges / Tables / Helpe
 ## Help us improve and develop Forbica
 
 #### Donate Using Paypal: [Click Here](#)
-#### Donate Using Payline (for Iranians): [Click Here](#)
+#### Donate Using Payline (for Iranians): [Click Here](http://www.forbica.com/fa/Donate.html)
 
 ## Contact with Us:
 **Email:** [dev@forbica.com](mailto: dev@forbica.com)
