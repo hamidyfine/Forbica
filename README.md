@@ -23,6 +23,7 @@ You can create your own Forbica. Change the parameters, customize it based on yo
 
 ## Get Started
 **1. Download Forbica**
+
 **2. Add Forbica to you Project:**
 
 `<link href="forbica-ltr.css" rel="stylesheet" />`
