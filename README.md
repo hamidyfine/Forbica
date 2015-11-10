@@ -1,4 +1,4 @@
-# forbica
+# Forbica
 Beautiful, Responsive and Modern UI Framework that Support both LTR and RTL - http://forbica.com/
 
 Forbica is published in 2 language: English / Persian
